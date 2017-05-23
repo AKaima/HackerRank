@@ -1,3 +1,5 @@
+package HackerRank.DataStructures.Arrays.TwoDArraysDS;
+
 import java.io.*;
 import java.util.*;
 

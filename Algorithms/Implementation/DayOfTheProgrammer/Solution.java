@@ -1,4 +1,4 @@
-//package HackerRank.Algorithms.Implementation.Day
+package HackerRank.Algorithms.Implementation.DayOfTheProgrammer;
 
 import java.io.*;
 import java.util.*;

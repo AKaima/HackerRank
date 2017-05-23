@@ -1,3 +1,5 @@
+package HackerRank.Mathematics.Fundamentals.ArmyGame;
+
 import java.io.*;
 import java.util.*;
 import java.text.*;

@@ -1,3 +1,5 @@
+package HackerRank.Mathematics.Fundamentals.MaximumDraws;
+
 import java.io.*;
 import java.util.*;
 

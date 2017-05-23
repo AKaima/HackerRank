@@ -1,3 +1,5 @@
+package HackerRank.Mathematics.Algebra.EasySum;
+
 import java.io.*;
 import java.util.*;
 
