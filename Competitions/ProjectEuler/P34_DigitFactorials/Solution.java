@@ -1,9 +1,8 @@
-package HackerRank.Competitions.ProjectEuler.P34DigitFactorials;
+package HackerRank.Competitions.ProjectEuler.P34_DigitFactorials;
 
 /**
  * Created by kaima on 5/23/17.
  */
-import java.io.*;
 import java.util.*;
 
 public class Solution {

@@ -1,13 +1,9 @@
-package HackerRank.Competitions.ProjectEuler.P5SmallestMultiple;
+package HackerRank.Competitions.ProjectEuler.P5_SmallestMultiple;
 
 /**
  * Created by kaima on 5/23/17.
  */
-import java.io.*;
 import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
 
 
 /*
