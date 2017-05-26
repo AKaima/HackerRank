@@ -12,7 +12,11 @@ class Solution {
         int n = int.Parse(s[2]);
         
         for(int i = 2; i < n; i++)
+<<<<<<< HEAD
         {
+=======
+            {
+>>>>>>> 44f6bb409c9ca688230a52ea09adbdf927e4030c
             temp = t1 + (t2 * t2);
             t1 = t2;
             t2 = temp;
