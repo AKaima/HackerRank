@@ -1,4 +1,4 @@
-package HackerRank.Java.Introduction.JavaEndOfFile;
+package HackerRank.Java.Strings.JavaStringReverse;
 
 import java.util.Scanner;
 
@@ -9,9 +9,7 @@ public class Solution {
     public static void main(String[] args)
     {
         Scanner scan = new Scanner(System.in);
-        int n = 0;
-
-        while(scan.hasNext())
-            System.out.println(++n + " " + scan.nextLine());
+        String s = scan.next();
+        System.out.println(new StringBuilder(s).reverse().toString().equals(s) ? "Yes" : "No");
     }
 }
